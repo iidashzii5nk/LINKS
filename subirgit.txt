@@ -1,0 +1,26 @@
+*****PASOS PARA SUBIR UN PROYECTO A GITHUB*******
+
+https://www.youtube.com/watch?v=gd-p2hJyaB8&ab_channel=WaspSoluciones -> Como subir archivos con git
+
+IMPORTATNTE CREAR PRIMERO EL NUEVO REPOSITORIO EN GITHUB
+
+git init     ->     para crear un nuevo repositorio
+
+git remote add origin  -> copiar el link que se creo en el repositorio
+
+git status    -> para ver el estatus en el que se va
+
+git add *     ->   Es para subir todo en un solo comando
+
+git add y el nombre del archivo .tx o .html para agregar uno a uno.
+
+luego validamos nuevamente con git status para validar que esten en color verde ya cargados
+
+*****************************************************************************************
+
+
+git commit -m "El mensaje que se quiere ver en este guardado" y dar enter
+
+git push origin master  ->  Es para que ya como tal se suban al repositorio de GITHUB
+
+EL ARCHIVO README ES PARA UNA PEQUEÑA DESCRIPCION.
